@@ -82,3 +82,4 @@ git pull
 ---------------------------------------------------------------------------------------
 
 Ссылка на сайт https://olegfd11.github.io/lot/index.html
+                       konford.github.io/NewTest
